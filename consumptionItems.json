@@ -1,0 +1,167 @@
+[
+  {
+    "id": 1,
+    "name": "Café com leite",
+    "unit": "unidade",
+    "currentStock": "0.00",
+    "minimumStock": "0.00",
+    "createdAt": "2026-08-20T03:31:45.000Z",
+    "updatedAt": "2026-08-20T03:31:45.000Z",
+    "unitPrice": "6.00",
+    "active": 1
+  },
+  {
+    "id": 2,
+    "name": "Café au Lait",
+    "unit": "unidade",
+    "currentStock": "0.00",
+    "minimumStock": "0.00",
+    "createdAt": "2026-08-20T03:31:45.000Z",
+    "updatedAt": "2026-08-20T03:31:45.000Z",
+    "unitPrice": "6.00",
+    "active": 1
+  },
+  {
+    "id": 3,
+    "name": "Café au Lait Baunilha",
+    "unit": "unidade",
+    "currentStock": "0.00",
+    "minimumStock": "0.00",
+    "createdAt": "2026-08-20T03:31:45.000Z",
+    "updatedAt": "2026-08-20T03:31:45.000Z",
+    "unitPrice": "6.00",
+    "active": 1
+  },
+  {
+    "id": 4,
+    "name": "Latte Macchiato",
+    "unit": "unidade",
+    "currentStock": "0.00",
+    "minimumStock": "0.00",
+    "createdAt": "2026-08-20T03:31:45.000Z",
+    "updatedAt": "2026-08-20T03:31:45.000Z",
+    "unitPrice": "6.00",
+    "active": 1
+  },
+  {
+    "id": 5,
+    "name": "Cappuccino Tradicional",
+    "unit": "unidade",
+    "currentStock": "0.00",
+    "minimumStock": "0.00",
+    "createdAt": "2026-08-20T03:31:45.000Z",
+    "updatedAt": "2026-08-20T03:31:45.000Z",
+    "unitPrice": "6.00",
+    "active": 1
+  },
+  {
+    "id": 6,
+    "name": "Mochaccino Canela / Avelã",
+    "unit": "unidade",
+    "currentStock": "0.00",
+    "minimumStock": "0.00",
+    "createdAt": "2026-08-20T03:31:45.000Z",
+    "updatedAt": "2026-08-20T03:31:45.000Z",
+    "unitPrice": "6.00",
+    "active": 1
+  },
+  {
+    "id": 7,
+    "name": "Achocolatado Nescau / Alpino",
+    "unit": "unidade",
+    "currentStock": "0.00",
+    "minimumStock": "0.00",
+    "createdAt": "2026-08-20T03:31:45.000Z",
+    "updatedAt": "2026-08-20T03:31:45.000Z",
+    "unitPrice": "6.00",
+    "active": 1
+  },
+  {
+    "id": 8,
+    "name": "Coca-Cola Original",
+    "unit": "unidade",
+    "currentStock": "0.00",
+    "minimumStock": "0.00",
+    "createdAt": "2026-08-20T03:31:45.000Z",
+    "updatedAt": "2026-08-20T03:31:45.000Z",
+    "unitPrice": "6.00",
+    "active": 1
+  },
+  {
+    "id": 9,
+    "name": "Coca-Cola Zero",
+    "unit": "unidade",
+    "currentStock": "0.00",
+    "minimumStock": "0.00",
+    "createdAt": "2026-08-20T03:31:45.000Z",
+    "updatedAt": "2026-08-20T03:31:45.000Z",
+    "unitPrice": "6.00",
+    "active": 1
+  },
+  {
+    "id": 10,
+    "name": "Guaraná Antarctica",
+    "unit": "unidade",
+    "currentStock": "0.00",
+    "minimumStock": "0.00",
+    "createdAt": "2026-08-20T03:31:45.000Z",
+    "updatedAt": "2026-08-20T03:31:45.000Z",
+    "unitPrice": "5.00",
+    "active": 1
+  },
+  {
+    "id": 11,
+    "name": "Pepsi",
+    "unit": "unidade",
+    "currentStock": "0.00",
+    "minimumStock": "0.00",
+    "createdAt": "2026-08-20T03:31:45.000Z",
+    "updatedAt": "2026-08-20T03:31:45.000Z",
+    "unitPrice": "5.00",
+    "active": 1
+  },
+  {
+    "id": 12,
+    "name": "Sprite",
+    "unit": "unidade",
+    "currentStock": "0.00",
+    "minimumStock": "0.00",
+    "createdAt": "2026-08-20T03:31:45.000Z",
+    "updatedAt": "2026-08-20T03:31:45.000Z",
+    "unitPrice": "5.00",
+    "active": 1
+  },
+  {
+    "id": 13,
+    "name": "Monster",
+    "unit": "unidade",
+    "currentStock": "0.00",
+    "minimumStock": "0.00",
+    "createdAt": "2026-08-20T03:31:45.000Z",
+    "updatedAt": "2026-08-20T03:31:45.000Z",
+    "unitPrice": "14.00",
+    "active": 1
+  },
+  {
+    "id": 60001,
+    "name": "Café (cortesia)",
+    "unit": "10000",
+    "currentStock": "4.00",
+    "minimumStock": "0.00",
+    "createdAt": "2026-11-21T12:44:42.000Z",
+    "updatedAt": "2026-11-21T12:44:42.000Z",
+    "unitPrice": "0.00",
+    "active": 1
+  },
+  {
+    "id": 90001,
+    "name": "Filtro (café 102)",
+    "unit": "0",
+    "currentStock": "15.00",
+    "minimumStock": "0.00",
+    "createdAt": "2026-11-21T12:46:26.000Z",
+    "updatedAt": "2026-11-21T12:46:26.000Z",
+    "unitPrice": "0.00",
+    "active": 1
+  }
+]

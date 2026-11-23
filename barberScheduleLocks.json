@@ -1,0 +1,222 @@
+[
+  {
+    "id": 1,
+    "barberId": 30001,
+    "lockedDate": "2026-09-02",
+    "startTime": "18:30",
+    "endTime": "21:00",
+    "reason": null,
+    "createdByUserId": 570011,
+    "createdAt": "2026-09-01T02:20:29.000Z"
+  },
+  {
+    "id": 30001,
+    "barberId": 30001,
+    "lockedDate": "2026-09-05",
+    "startTime": "08:00",
+    "endTime": "09:00",
+    "reason": null,
+    "createdByUserId": 570011,
+    "createdAt": "2026-09-05T13:26:39.000Z"
+  },
+  {
+    "id": 60001,
+    "barberId": 30001,
+    "lockedDate": "2026-09-12",
+    "startTime": "18:00",
+    "endTime": "21:00",
+    "reason": null,
+    "createdByUserId": 570011,
+    "createdAt": "2026-09-06T03:31:28.000Z"
+  },
+  {
+    "id": 60002,
+    "barberId": 30001,
+    "lockedDate": "2026-09-19",
+    "startTime": "18:00",
+    "endTime": "21:00",
+    "reason": null,
+    "createdByUserId": 570011,
+    "createdAt": "2026-09-06T03:31:36.000Z"
+  },
+  {
+    "id": 60003,
+    "barberId": 30001,
+    "lockedDate": "2026-09-26",
+    "startTime": "18:00",
+    "endTime": "21:00",
+    "reason": null,
+    "createdByUserId": 570011,
+    "createdAt": "2026-09-06T03:31:45.000Z"
+  },
+  {
+    "id": 90001,
+    "barberId": 90001,
+    "lockedDate": "2026-09-14",
+    "startTime": "09:00",
+    "endTime": "14:00",
+    "reason": null,
+    "createdByUserId": 570011,
+    "createdAt": "2026-09-09T19:34:38.000Z"
+  },
+  {
+    "id": 90002,
+    "barberId": 90001,
+    "lockedDate": "2026-09-21",
+    "startTime": "09:00",
+    "endTime": "14:00",
+    "reason": null,
+    "createdByUserId": 570011,
+    "createdAt": "2026-09-09T19:34:42.000Z"
+  },
+  {
+    "id": 90003,
+    "barberId": 90001,
+    "lockedDate": "2026-09-28",
+    "startTime": "09:00",
+    "endTime": "14:00",
+    "reason": null,
+    "createdByUserId": 570011,
+    "createdAt": "2026-09-09T19:34:50.000Z"
+  },
+  {
+    "id": 120001,
+    "barberId": 90001,
+    "lockedDate": "2026-09-10",
+    "startTime": "09:00",
+    "endTime": "14:00",
+    "reason": null,
+    "createdByUserId": 570011,
+    "createdAt": "2026-09-10T12:00:55.000Z"
+  },
+  {
+    "id": 120002,
+    "barberId": 90001,
+    "lockedDate": "2026-09-11",
+    "startTime": "09:00",
+    "endTime": "14:00",
+    "reason": null,
+    "createdByUserId": 570011,
+    "createdAt": "2026-09-10T12:01:00.000Z"
+  },
+  {
+    "id": 120004,
+    "barberId": 90001,
+    "lockedDate": "2026-09-15",
+    "startTime": "09:00",
+    "endTime": "14:00",
+    "reason": null,
+    "createdByUserId": 570011,
+    "createdAt": "2026-09-10T12:01:27.000Z"
+  },
+  {
+    "id": 120005,
+    "barberId": 90001,
+    "lockedDate": "2026-09-16",
+    "startTime": "09:00",
+    "endTime": "14:00",
+    "reason": null,
+    "createdByUserId": 570011,
+    "createdAt": "2026-09-10T12:01:31.000Z"
+  },
+  {
+    "id": 120006,
+    "barberId": 90001,
+    "lockedDate": "2026-09-17",
+    "startTime": "09:00",
+    "endTime": "14:00",
+    "reason": null,
+    "createdByUserId": 570011,
+    "createdAt": "2026-09-10T12:01:40.000Z"
+  },
+  {
+    "id": 120007,
+    "barberId": 90001,
+    "lockedDate": "2026-09-18",
+    "startTime": "09:00",
+    "endTime": "14:00",
+    "reason": null,
+    "createdByUserId": 570011,
+    "createdAt": "2026-09-10T12:01:43.000Z"
+  },
+  {
+    "id": 120008,
+    "barberId": 90001,
+    "lockedDate": "2026-09-19",
+    "startTime": "09:00",
+    "endTime": "14:00",
+    "reason": null,
+    "createdByUserId": 570011,
+    "createdAt": "2026-09-10T12:01:51.000Z"
+  },
+  {
+    "id": 120010,
+    "barberId": 90001,
+    "lockedDate": "2026-09-22",
+    "startTime": "09:00",
+    "endTime": "14:00",
+    "reason": null,
+    "createdByUserId": 570011,
+    "createdAt": "2026-09-10T12:02:01.000Z"
+  },
+  {
+    "id": 120011,
+    "barberId": 90001,
+    "lockedDate": "2026-09-23",
+    "startTime": "09:00",
+    "endTime": "14:00",
+    "reason": null,
+    "createdByUserId": 570011,
+    "createdAt": "2026-09-10T12:02:04.000Z"
+  },
+  {
+    "id": 120012,
+    "barberId": 90001,
+    "lockedDate": "2026-09-24",
+    "startTime": "09:00",
+    "endTime": "14:00",
+    "reason": null,
+    "createdByUserId": 570011,
+    "createdAt": "2026-09-10T12:02:08.000Z"
+  },
+  {
+    "id": 120013,
+    "barberId": 90001,
+    "lockedDate": "2026-09-25",
+    "startTime": "09:00",
+    "endTime": "14:00",
+    "reason": null,
+    "createdByUserId": 570011,
+    "createdAt": "2026-09-10T12:02:11.000Z"
+  },
+  {
+    "id": 120016,
+    "barberId": 90001,
+    "lockedDate": "2026-09-29",
+    "startTime": "09:00",
+    "endTime": "14:00",
+    "reason": null,
+    "createdByUserId": 570011,
+    "createdAt": "2026-09-10T12:02:33.000Z"
+  },
+  {
+    "id": 120017,
+    "barberId": 90001,
+    "lockedDate": "2026-09-30",
+    "startTime": "09:00",
+    "endTime": "14:00",
+    "reason": null,
+    "createdByUserId": 570011,
+    "createdAt": "2026-09-10T12:02:39.000Z"
+  },
+  {
+    "id": 150001,
+    "barberId": 30001,
+    "lockedDate": "2026-11-24",
+    "startTime": "12:00",
+    "endTime": "21:00",
+    "reason": null,
+    "createdByUserId": 570011,
+    "createdAt": "2026-11-18T19:05:34.000Z"
+  }
+]

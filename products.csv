@@ -1,0 +1,5 @@
+id,name,category,purchasePrice,salePrice,stockQuantity,createdAt,updatedAt,active
+30001,Cera Efeito Matte (seco) Evolution,pomadas,9.70,30.00,5,2026-11-18T18:03:13.000Z,2026-11-18T18:03:13.000Z,1
+60001,Óleo Barba 30ml (element),Óleo,11.66,3.00,6,2026-11-18T18:08:31.000Z,2026-11-18T18:11:33.000Z,0
+90001,Balm para Barba 140G,Balm,10.19,30.00,6,2026-11-18T18:10:32.000Z,2026-11-18T18:10:32.000Z,1
+120001,Óleo para Barba 30 ml (element),Óleo,11.66,35.00,6,2026-11-18T18:12:37.000Z,2026-11-18T18:12:37.000Z,1

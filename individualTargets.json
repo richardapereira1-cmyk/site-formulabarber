@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "barberId": 30001,
+    "title": "fixa",
+    "referenceMonth": "2026-08",
+    "grossRevenueTarget": "6000.00",
+    "notes": null,
+    "createdAt": "2026-08-27T04:40:39.000Z",
+    "updatedAt": "2026-08-27T04:40:39.000Z"
+  }
+]

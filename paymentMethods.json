@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Dinheiro",
+    "kind": "cash",
+    "active": 1,
+    "createdAt": "2026-08-19T15:19:59.000Z"
+  },
+  {
+    "id": 2,
+    "name": "Cartão",
+    "kind": "card",
+    "active": 1,
+    "createdAt": "2026-08-19T15:20:12.000Z"
+  },
+  {
+    "id": 3,
+    "name": "Pix",
+    "kind": "pix",
+    "active": 1,
+    "createdAt": "2026-08-19T15:20:21.000Z"
+  }
+]

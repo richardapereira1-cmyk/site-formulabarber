@@ -1,0 +1,36 @@
+{
+  "name": "Formula Barber",
+  "short_name": "Formula Barber",
+  "description": "Formula Barber — muito mais que cortes. Transformamos identidades.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#050505",
+  "theme_color": "#030303",
+  "icons": [
+    {
+      "src": "/manus-storage/formula-barber-icon-192_f686db24.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/manus-storage/formula-barber-icon-512_41e0733d.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/manus-storage/formula-barber-icon-192_f686db24.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/manus-storage/formula-barber-icon-512_41e0733d.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

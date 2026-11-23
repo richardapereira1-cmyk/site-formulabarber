@@ -1,0 +1,62 @@
+[
+  {
+    "id": 30003,
+    "actorUserId": null,
+    "action": "create",
+    "entityType": "appointment",
+    "entityId": 90,
+    "summary": "Agendamento criado na operação.",
+    "metadata": "{\"barberId\":4,\"scheduledAt\":\"2026-09-10T14:00:00.000Z\"}",
+    "createdAt": "2026-10-02T16:37:39.000Z"
+  },
+  {
+    "id": 60002,
+    "actorUserId": null,
+    "action": "create",
+    "entityType": "appointment",
+    "entityId": 90,
+    "summary": "Agendamento criado na operação.",
+    "metadata": "{\"barberId\":4,\"scheduledAt\":\"2026-09-10T14:00:00.000Z\"}",
+    "createdAt": "2026-10-16T20:35:38.000Z"
+  },
+  {
+    "id": 90001,
+    "actorUserId": 570011,
+    "action": "create",
+    "entityType": "appointment",
+    "entityId": 2670001,
+    "summary": "Agendamento criado na operação.",
+    "metadata": "{\"barberId\":30001,\"scheduledAt\":\"2026-11-19T22:50:00.000Z\"}",
+    "createdAt": "2026-11-19T16:48:34.000Z"
+  },
+  {
+    "id": 120002,
+    "actorUserId": null,
+    "action": "create",
+    "entityType": "appointment",
+    "entityId": 90,
+    "summary": "Agendamento criado na operação.",
+    "metadata": "{\"barberId\":4,\"scheduledAt\":\"2026-09-10T14:00:00.000Z\"}",
+    "createdAt": "2026-11-19T20:19:37.000Z"
+  },
+  {
+    "id": 120004,
+    "actorUserId": null,
+    "action": "create",
+    "entityType": "appointment",
+    "entityId": 90,
+    "summary": "Agendamento criado na operação.",
+    "metadata": "{\"barberId\":4,\"scheduledAt\":\"2026-09-10T14:00:00.000Z\"}",
+    "createdAt": "2026-11-19T20:20:16.000Z"
+  },
+  {
+    "id": 150002,
+    "actorUserId": null,
+    "action": "create",
+    "entityType": "appointment",
+    "entityId": 90,
+    "summary": "Agendamento criado na operação.",
+    "metadata": "{\"barberId\":4,\"scheduledAt\":\"2026-09-10T14:00:00.000Z\"}",
+    "createdAt": "2026-11-23T02:29:12.000Z"
+  }
+]

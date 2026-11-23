@@ -1,0 +1,15 @@
+[
+  {
+    "id": 1,
+    "ownerUserId": 570011,
+    "ownerName": "Richard Acosta Pereira",
+    "businessName": "Formula Barber",
+    "businessPhone": "fb1:iXEGXXIFbBueABzV:Kk-95d-d_JHpwbXpPQ1hLQ:xVH1Kc_et2EAYJ8l",
+    "businessAddress": "Avenida Pelotas, 742",
+    "businessPixKey": "fb1:kjEYa5KSnsFj9yaS:GmOvc_5Ye_UA_rzFojmy2w:mUNhfJrhQJ5hhfX9iWI",
+    "createdAt": "2026-08-20T18:15:18.000Z",
+    "updatedAt": "2026-10-16T20:35:16.000Z",
+    "reminderScheduleTaskUid": null,
+    "dailyDigestScheduleTaskUid": "3XTPBaH7Lsmw779RiLPF8E"
+  }
+]

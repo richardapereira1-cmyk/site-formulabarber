@@ -1,0 +1,68 @@
+[
+  {
+    "id": 60001,
+    "fullName": "Eduarda",
+    "active": 0,
+    "createdAt": "2026-08-20T17:16:19.000Z",
+    "updatedAt": "2026-08-20T17:20:22.000Z",
+    "phone": "fb1:jJHdc3if5OWK-Eu6:0-mMk_NanbILKINEYr_2ew:vTtYp_fCSh1nuPvi",
+    "document": "fb1:XFLW0IJmSNymS4vc:dxtf0cLI5_sKBl5dSKvqnw:5xeqhg8Lz1_KUxk",
+    "email": null,
+    "photoUrl": null
+  },
+  {
+    "id": 90001,
+    "fullName": "eduarda",
+    "active": 0,
+    "createdAt": "2026-08-21T01:00:49.000Z",
+    "updatedAt": "2026-08-21T03:23:52.000Z",
+    "phone": "fb1:6AU_EgidMd8506C3:NOzId5XXu4p1OPu4f6Wtlg:cis7UXENX2rDMBM",
+    "document": "fb1:LjgoeWOubUQEb0sl:GfLJD_w_fCsEEbTLLKQoCQ:Na5td4QWhBCGw8E",
+    "email": null,
+    "photoUrl": null
+  },
+  {
+    "id": 120001,
+    "fullName": "Formula Barber",
+    "active": 0,
+    "createdAt": "2026-08-21T03:24:51.000Z",
+    "updatedAt": "2026-08-27T02:17:08.000Z",
+    "phone": "fb1:m05j37t_mtFCUP9l:TCv7BadP-N7LrDzEWlGb6g:4RNr3aBy9k5lUCY5",
+    "document": null,
+    "email": null,
+    "photoUrl": null
+  },
+  {
+    "id": 120002,
+    "fullName": "Eduarda Pereira",
+    "active": 0,
+    "createdAt": "2026-08-21T03:25:23.000Z",
+    "updatedAt": "2026-08-27T02:17:04.000Z",
+    "phone": "fb1:X793K1TpJbM4wIyw:mtwYveOLwyFDcsxQNPOUCw:HWysDvjThWVUxIaF",
+    "document": null,
+    "email": null,
+    "photoUrl": null
+  },
+  {
+    "id": 180001,
+    "fullName": "Eduarda Pereira",
+    "active": 0,
+    "createdAt": "2026-08-27T02:18:08.000Z",
+    "updatedAt": "2026-08-27T02:36:43.000Z",
+    "phone": "fb1:2pUIS58AqrFu8RTW:v99SjNUiyFrYRnYyT7yYLQ:18iH7uVcHrlV0ulr",
+    "document": "fb1:HoA0oCB9e6E-BJcj:oKv94hvEt1oJqvW_ODgZVg:0c-GSg9Mz1pH9AU",
+    "email": null,
+    "photoUrl": null
+  },
+  {
+    "id": 210001,
+    "fullName": "Eduarda Pereira",
+    "active": 1,
+    "createdAt": "2026-08-27T02:37:53.000Z",
+    "updatedAt": "2026-08-27T03:22:52.000Z",
+    "phone": "fb1:epNOq30C8oQBusUK:quzInWy26CxvByz39ADg8A:iPV24_L6Q6aOhpqh-EE",
+    "document": "fb1:jKTcW0waJe3PBIEV:MzHpJIkH_NFb07ICpatRgw:2DO1_-DrrQptcog",
+    "email": null,
+    "photoUrl": null
+  }
+]

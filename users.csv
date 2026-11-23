@@ -1,0 +1,38 @@
+id,openId,name,email,loginMethod,role,createdAt,updatedAt,lastSignedIn,maintenanceAccess
+1,YFq3ZCPm7AL8QVG2FtzvKq,Richard Pereira,richard.a.pereira1@gmail.com,google,admin,2026-08-19T12:48:52.000Z,2026-11-23T02:29:57.000Z,2026-11-23T02:29:57.000Z,0
+570011,formula-owner-local-v1,Proprietário Formula Barber,formulabarber1@gmail.com,local,admin,2026-08-19T14:29:36.000Z,2026-11-23T02:29:14.000Z,2026-11-23T02:29:14.000Z,0
+2610016,formula-barber-local-1,richard pereira,formulabarber1@gmail.com,local,user,2026-08-20T00:41:04.000Z,2026-09-03T13:33:10.000Z,2026-08-21T01:16:08.000Z,1
+10440005,formula-attendant-local-90001,eduarda,eduardafeijo123@gmail.com,local,user,2026-08-21T01:01:30.000Z,2026-08-21T01:11:42.000Z,2026-08-21T01:11:43.000Z,0
+11580005,formula-attendant-local-120001,Formula Barber,formulabarber1@gmail.com,local,user,2026-08-21T03:25:06.000Z,2026-09-03T13:33:10.000Z,2026-08-26T04:12:05.000Z,1
+11610002,formula-attendant-local-120002,Eduarda Pereira,eduardafeijo123@gmail.com,local,user,2026-08-21T03:29:28.000Z,2026-08-21T03:29:28.000Z,2026-08-21T03:29:28.000Z,0
+12750033,formula-barber-local-30001,Richard Pereira,richard.a.pereira1@gmail.com,local,user,2026-08-21T05:17:21.000Z,2026-11-22T00:55:42.000Z,2026-11-22T00:55:42.000Z,0
+21210002,formula-attendant-local-180001,Eduarda Pereira,eduardafeijo123@gmail.com,local,user,2026-08-27T02:18:57.000Z,2026-08-27T02:36:31.000Z,2026-08-27T02:36:31.000Z,0
+22050002,formula-attendant-local-210001,Eduarda Pereira,eduardafeijo123@gmail.com,local,user,2026-08-27T03:22:43.000Z,2026-09-17T23:32:35.000Z,2026-09-17T23:32:36.000Z,0
+28440001,RD6fNGUUBF6uG9bqzefzMy,Formula Barber,formulabarber1@gmail.com,google,user,2026-09-03T13:42:35.000Z,2026-09-04T23:30:24.000Z,2026-09-04T23:30:25.000Z,0
+30480003,formula-client-local-360001,richard,richard.a.pereira1@gmail.com,local-customer,user,2026-09-04T01:21:22.000Z,2026-11-23T13:14:11.000Z,2026-11-23T13:14:11.000Z,0
+34380001,jVDEkUZ5odYj7ZHP2BJqtM,lfelipemacedoprestes,lfelipemacedoprestes@gmail.com,email,user,2026-09-05T12:21:18.000Z,2026-09-05T20:20:04.000Z,2026-09-05T20:20:04.000Z,0
+34560001,6GM2gEwQteNTG8DNkMA73b,Patrick Guasti Vande Meerssche,patrickgvm1@gmail.com,google,user,2026-09-05T13:16:59.000Z,2026-09-05T13:30:22.000Z,2026-09-05T13:30:22.000Z,0
+34620009,formula-client-local-1020001,Patrick Guasti Vande Meerssche,patrickgvm1@gmail.com,local-customer,user,2026-09-05T13:30:22.000Z,2026-09-16T23:19:52.000Z,2026-09-16T23:19:52.000Z,0
+35100001,VNwmYdxoyyDHFLgtURTrh6,Rodrigo Vargas,roodriigoovargas@gmail.com,google,user,2026-09-05T19:49:24.000Z,2026-09-05T19:50:01.000Z,2026-09-05T19:50:02.000Z,0
+35100006,formula-client-local-1410001,Rodrigo vargas,roodriigoovargas@gmail.com,local-customer,user,2026-09-05T19:50:01.000Z,2026-09-05T19:56:19.000Z,2026-09-05T19:56:20.000Z,0
+35250002,formula-client-local-1290001,Luis Felipe,lfelipemacedoprestes@gmail.com,local-customer,user,2026-09-05T20:20:04.000Z,2026-09-05T20:24:20.000Z,2026-09-05T20:24:20.000Z,0
+35520001,formula-client-local-390001,David concret,davidconcret@gmail.com,local-customer,user,2026-09-06T02:23:18.000Z,2026-09-10T20:39:56.000Z,2026-09-10T20:39:57.000Z,0
+36360009,formula-client-local-1560001,Luiz Gustavo Fernandes da Rosa,luizgustavofer30@gmail.com,local-customer,user,2026-09-06T22:46:09.000Z,2026-09-06T22:48:53.000Z,2026-09-06T22:48:53.000Z,0
+36600001,VSv4jENiaZEKrnfUsdSjXh,adriano znX,adrianoznx@gmail.com,google,user,2026-09-08T12:34:33.000Z,2026-09-09T22:25:22.000Z,2026-09-09T22:25:23.000Z,0
+36840004,formula-barber-local-90001,Henrique da Rosa,henrique694@icloud.com,local,user,2026-09-08T17:21:07.000Z,2026-09-08T17:21:07.000Z,2026-09-08T17:21:08.000Z,0
+36870009,krovCUzkta7hneJSuSkasq,. .,henrique694@icloud.com,apple,user,2026-09-08T17:23:08.000Z,2026-09-18T21:38:47.000Z,2026-09-18T21:38:47.000Z,0
+39060001,drPJG4qShS2k9HxKxzYVbF,Capitão Martins,capitaomartins.salvationarmy@gmail.com,google,user,2026-09-10T14:03:35.000Z,2026-09-10T14:04:38.000Z,2026-09-10T14:04:39.000Z,0
+39060007,formula-client-local-1830001,Alessandro Martins,capitaomartins.salvationarmy@gmail.com,local-customer,user,2026-09-10T14:04:38.000Z,2026-09-14T16:06:20.000Z,2026-09-14T16:06:19.000Z,0
+39330001,VYrmEECFGpEJXu9tajcDY6,gugapedra23,gugapedra23@gmail.com,email,user,2026-09-10T15:10:37.000Z,2026-09-18T23:45:15.000Z,2026-09-18T23:45:15.000Z,0
+40140001,9d9c7JBR3Vpmd3MaQvkikN,Gabriel Amaral,ga758548@gmail.com,google,user,2026-09-11T02:34:04.000Z,2026-09-11T19:15:45.000Z,2026-09-11T19:15:46.000Z,0
+41580021,formula-client-local-1920001,Ga758548@gmail.com,ga758548@gmail.com,local-customer,user,2026-09-11T19:15:45.000Z,2026-09-27T03:28:51.000Z,2026-09-27T03:28:51.000Z,0
+41760001,formula-client-local-2130001,José Vitor Machado Sousa Loureiro,josevitorloureiro32@gmail.com,local-customer,user,2026-09-11T20:48:16.000Z,2026-09-12T08:53:54.000Z,2026-09-12T08:53:54.000Z,0
+42120015,formula-client-local-2250001,Renan,aurexcontabilidade@gmail.com,local-customer,user,2026-09-11T21:32:33.000Z,2026-09-11T21:32:34.000Z,2026-09-11T21:32:35.000Z,0
+42150001,formula-client-local-2280001,Clisman Fernandes Freitas,clismanfreitas91@gmail.com,local-customer,user,2026-09-12T00:40:56.000Z,2026-10-06T12:00:35.000Z,2026-10-06T12:00:35.000Z,0
+45840001,Kcs5FSm6PYJGGoHP6uKqqu,Bruno Brum,brumbruno54@gmail.com,google,user,2026-09-15T13:04:17.000Z,2026-09-15T13:07:22.000Z,2026-09-15T13:07:23.000Z,0
+45960001,FtLrS8rS33Q2djqJUNRMRw,David goulart ramires,david.ramires.32@gmail.com,google,user,2026-09-15T13:14:38.000Z,2026-09-15T13:22:45.000Z,2026-09-15T13:22:44.000Z,0
+50670009,formula-client-local-3060001,GABRIEL CHAPLIN DA SILVA,chaplinsgabriel@gmail.com,local-customer,user,2026-09-18T21:24:45.000Z,2026-09-27T22:47:01.000Z,2026-09-27T22:47:02.000Z,0
+51600001,dRLKazBaQiM8brk3rMHSYV,prof.andrepedra,prof.andrepedra@gmail.com,email,user,2026-09-21T01:07:25.000Z,2026-11-16T13:44:51.000Z,2026-11-16T13:44:51.000Z,0
+52920001,formula-client-local-960001,GUILHERME Paiva,guilhermemmachadopaiva@gmail.com,local-customer,user,2026-10-05T12:31:26.000Z,2026-11-16T19:59:34.000Z,2026-11-16T19:59:35.000Z,0
+53220001,7ZdkmuCTaxq3mVEy6Sz6hK,Antonio Soler,acpsoler@gmail.com,google,user,2026-10-06T20:46:54.000Z,2026-10-06T20:46:59.000Z,2026-10-06T20:47:00.000Z,0
+54000001,hAuP6RhQpQ3RhdsF9vELiV,José Vitor,josevitorloureiro32@gmail.com,google,user,2026-11-03T00:15:15.000Z,2026-11-07T18:28:14.000Z,2026-11-07T18:28:14.000Z,0

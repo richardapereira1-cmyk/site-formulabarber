@@ -1,0 +1,46 @@
+[
+  {
+    "id": 30001,
+    "name": "Cera Efeito Matte (seco) Evolution",
+    "category": "pomadas",
+    "purchasePrice": "9.70",
+    "salePrice": "30.00",
+    "stockQuantity": 5,
+    "createdAt": "2026-11-18T18:03:13.000Z",
+    "updatedAt": "2026-11-18T18:03:13.000Z",
+    "active": 1
+  },
+  {
+    "id": 60001,
+    "name": "Óleo Barba 30ml (element)",
+    "category": "Óleo",
+    "purchasePrice": "11.66",
+    "salePrice": "3.00",
+    "stockQuantity": 6,
+    "createdAt": "2026-11-18T18:08:31.000Z",
+    "updatedAt": "2026-11-18T18:11:33.000Z",
+    "active": 0
+  },
+  {
+    "id": 90001,
+    "name": "Balm para Barba 140G",
+    "category": "Balm",
+    "purchasePrice": "10.19",
+    "salePrice": "30.00",
+    "stockQuantity": 6,
+    "createdAt": "2026-11-18T18:10:32.000Z",
+    "updatedAt": "2026-11-18T18:10:32.000Z",
+    "active": 1
+  },
+  {
+    "id": 120001,
+    "name": "Óleo para Barba 30 ml (element)",
+    "category": "Óleo",
+    "purchasePrice": "11.66",
+    "salePrice": "35.00",
+    "stockQuantity": 6,
+    "createdAt": "2026-11-18T18:12:37.000Z",
+    "updatedAt": "2026-11-18T18:12:37.000Z",
+    "active": 1
+  }
+]

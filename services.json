@@ -1,0 +1,299 @@
+[
+  {
+    "id": 1,
+    "categoryId": null,
+    "name": "Corte de cabelo",
+    "price": "40.00",
+    "durationMinutes": 40,
+    "active": 0,
+    "createdAt": "2026-08-20T00:42:41.000Z"
+  },
+  {
+    "id": 30001,
+    "categoryId": null,
+    "name": "Barba",
+    "price": "20.00",
+    "durationMinutes": 15,
+    "active": 1,
+    "createdAt": "2026-08-20T03:31:37.000Z"
+  },
+  {
+    "id": 30002,
+    "categoryId": null,
+    "name": "Sobrancelha avulsa",
+    "price": "10.00",
+    "durationMinutes": 5,
+    "active": 1,
+    "createdAt": "2026-08-20T03:31:37.000Z"
+  },
+  {
+    "id": 30003,
+    "categoryId": null,
+    "name": "Sobrancelha com qualquer outro serviço",
+    "price": "5.00",
+    "durationMinutes": 5,
+    "active": 0,
+    "createdAt": "2026-08-20T03:31:37.000Z"
+  },
+  {
+    "id": 30004,
+    "categoryId": null,
+    "name": "Pezinho / acabamento",
+    "price": "15.00",
+    "durationMinutes": 10,
+    "active": 0,
+    "createdAt": "2026-08-20T03:31:37.000Z"
+  },
+  {
+    "id": 30005,
+    "categoryId": null,
+    "name": "Corte infantil",
+    "price": "40.00",
+    "durationMinutes": 40,
+    "active": 0,
+    "createdAt": "2026-08-20T03:31:37.000Z"
+  },
+  {
+    "id": 30006,
+    "categoryId": null,
+    "name": "Limpeza de pele facial",
+    "price": "30.00",
+    "durationMinutes": 30,
+    "active": 0,
+    "createdAt": "2026-08-20T03:31:37.000Z"
+  },
+  {
+    "id": 30007,
+    "categoryId": null,
+    "name": "Máscara facial / hidratação facial",
+    "price": "20.00",
+    "durationMinutes": 20,
+    "active": 0,
+    "createdAt": "2026-08-20T03:31:37.000Z"
+  },
+  {
+    "id": 30008,
+    "categoryId": null,
+    "name": "Hidratação capilar",
+    "price": "25.00",
+    "durationMinutes": 20,
+    "active": 0,
+    "createdAt": "2026-08-20T03:31:37.000Z"
+  },
+  {
+    "id": 30009,
+    "categoryId": null,
+    "name": "Pigmentação de barba",
+    "price": "25.00",
+    "durationMinutes": 20,
+    "active": 1,
+    "createdAt": "2026-08-20T03:31:37.000Z"
+  },
+  {
+    "id": 30010,
+    "categoryId": null,
+    "name": "Depilação com cera — nariz",
+    "price": "15.00",
+    "durationMinutes": 5,
+    "active": 0,
+    "createdAt": "2026-08-20T03:31:37.000Z"
+  },
+  {
+    "id": 30011,
+    "categoryId": null,
+    "name": "Depilação com cera — orelhas",
+    "price": "15.00",
+    "durationMinutes": 5,
+    "active": 0,
+    "createdAt": "2026-08-20T03:31:37.000Z"
+  },
+  {
+    "id": 30012,
+    "categoryId": null,
+    "name": "Depilação com cera — nariz e orelhas",
+    "price": "25.00",
+    "durationMinutes": 10,
+    "active": 0,
+    "createdAt": "2026-08-20T03:31:37.000Z"
+  },
+  {
+    "id": 30013,
+    "categoryId": null,
+    "name": "Depilação com cera — maçãs do rosto",
+    "price": "15.00",
+    "durationMinutes": 5,
+    "active": 0,
+    "createdAt": "2026-08-20T03:31:37.000Z"
+  },
+  {
+    "id": 30014,
+    "categoryId": null,
+    "name": "Relaxamento capilar",
+    "price": "30.00",
+    "durationMinutes": 30,
+    "active": 0,
+    "createdAt": "2026-08-20T03:31:37.000Z"
+  },
+  {
+    "id": 30015,
+    "categoryId": null,
+    "name": "Lavagem + finalização",
+    "price": "15.00",
+    "durationMinutes": 15,
+    "active": 0,
+    "createdAt": "2026-08-20T03:31:37.000Z"
+  },
+  {
+    "id": 60001,
+    "categoryId": null,
+    "name": "Máquina geral",
+    "price": "20.00",
+    "durationMinutes": 10,
+    "active": 1,
+    "createdAt": "2026-08-21T06:16:14.000Z"
+  },
+  {
+    "id": 120001,
+    "categoryId": null,
+    "name": "Esfoliamento de pele",
+    "price": "15.00",
+    "durationMinutes": 10,
+    "active": 0,
+    "createdAt": "2026-08-25T12:08:55.000Z"
+  },
+  {
+    "id": 120002,
+    "categoryId": null,
+    "name": "Máscara negra",
+    "price": "15.00",
+    "durationMinutes": 20,
+    "active": 1,
+    "createdAt": "2026-08-25T12:09:21.000Z"
+  },
+  {
+    "id": 150001,
+    "categoryId": null,
+    "name": "Esfoliamento de pele",
+    "price": "20.00",
+    "durationMinutes": 10,
+    "active": 1,
+    "createdAt": "2026-09-08T18:06:35.000Z"
+  },
+  {
+    "id": 150002,
+    "categoryId": null,
+    "name": "Acabamento",
+    "price": "15.00",
+    "durationMinutes": 10,
+    "active": 0,
+    "createdAt": "2026-09-08T18:07:10.000Z"
+  },
+  {
+    "id": 180001,
+    "categoryId": null,
+    "name": "Barba convencional",
+    "price": "10.00",
+    "durationMinutes": 5,
+    "active": 1,
+    "createdAt": "2026-09-08T18:12:23.000Z"
+  },
+  {
+    "id": 210001,
+    "categoryId": null,
+    "name": "freestyle",
+    "price": "10.00",
+    "durationMinutes": 15,
+    "active": 0,
+    "createdAt": "2026-09-08T18:13:35.000Z"
+  },
+  {
+    "id": 210002,
+    "categoryId": null,
+    "name": "Freestyle",
+    "price": "10.00",
+    "durationMinutes": 5,
+    "active": 0,
+    "createdAt": "2026-09-08T18:13:55.000Z"
+  },
+  {
+    "id": 240001,
+    "categoryId": null,
+    "name": "Freestyle",
+    "price": "10.00",
+    "durationMinutes": 15,
+    "active": 1,
+    "createdAt": "2026-09-08T18:15:56.000Z"
+  },
+  {
+    "id": 270001,
+    "categoryId": null,
+    "name": "Acabamento",
+    "price": "10.00",
+    "durationMinutes": 5,
+    "active": 1,
+    "createdAt": "2026-09-11T14:46:02.000Z"
+  },
+  {
+    "id": 270002,
+    "categoryId": null,
+    "name": "Acabamento",
+    "price": "10.00",
+    "durationMinutes": 10,
+    "active": 0,
+    "createdAt": "2026-09-11T14:46:28.000Z"
+  },
+  {
+    "id": 300001,
+    "categoryId": null,
+    "name": "Corte de cabelo",
+    "price": "40.00",
+    "durationMinutes": 30,
+    "active": 1,
+    "createdAt": "2026-09-12T14:59:39.000Z"
+  },
+  {
+    "id": 300002,
+    "categoryId": null,
+    "name": "Corte infantil",
+    "price": "40.00",
+    "durationMinutes": 30,
+    "active": 1,
+    "createdAt": "2026-09-12T15:00:13.000Z"
+  },
+  {
+    "id": 330001,
+    "categoryId": null,
+    "name": "Platinado",
+    "price": "120.00",
+    "durationMinutes": 120,
+    "active": 1,
+    "createdAt": "2026-11-19T16:36:31.000Z"
+  },
+  {
+    "id": 330002,
+    "categoryId": null,
+    "name": "Luzes",
+    "price": "80.00",
+    "durationMinutes": 120,
+    "active": 1,
+    "createdAt": "2026-11-19T16:36:52.000Z"
+  },
+  {
+    "id": 360001,
+    "categoryId": null,
+    "name": "Sobrancelha combo",
+    "price": "5.00",
+    "durationMinutes": 1,
+    "active": 1,
+    "createdAt": "2026-11-19T19:57:46.000Z"
+  },
+  {
+    "id": 390001,
+    "categoryId": null,
+    "name": "Nalhava cabeça",
+    "price": "20.00",
+    "durationMinutes": 10,
+    "active": 1,
+    "createdAt": "2026-11-21T19:26:04.000Z"
+  }
+]

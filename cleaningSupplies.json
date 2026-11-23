@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Clorofina",
+    "unit": "unidade",
+    "currentStock": "0.00",
+    "minimumStock": "0.00",
+    "active": 1,
+    "createdAt": "2026-08-21T06:11:59.000Z",
+    "updatedAt": "2026-08-21T06:11:59.000Z"
+  },
+  {
+    "id": 2,
+    "name": "Desinfetante",
+    "unit": "unidade",
+    "currentStock": "0.00",
+    "minimumStock": "0.00",
+    "active": 1,
+    "createdAt": "2026-08-21T06:11:59.000Z",
+    "updatedAt": "2026-08-21T06:11:59.000Z"
+  },
+  {
+    "id": 3,
+    "name": "Sabonete",
+    "unit": "unidade",
+    "currentStock": "0.00",
+    "minimumStock": "0.00",
+    "active": 1,
+    "createdAt": "2026-08-21T06:11:59.000Z",
+    "updatedAt": "2026-08-21T06:11:59.000Z"
+  },
+  {
+    "id": 4,
+    "name": "Papel higiênico",
+    "unit": "unidade",
+    "currentStock": "0.00",
+    "minimumStock": "0.00",
+    "active": 1,
+    "createdAt": "2026-08-21T06:11:59.000Z",
+    "updatedAt": "2026-08-21T06:11:59.000Z"
+  },
+  {
+    "id": 5,
+    "name": "Cheirinho",
+    "unit": "unidade",
+    "currentStock": "0.00",
+    "minimumStock": "0.00",
+    "active": 1,
+    "createdAt": "2026-08-21T06:11:59.000Z",
+    "updatedAt": "2026-08-21T06:11:59.000Z"
+  },
+  {
+    "id": 60001,
+    "name": "Saco de lixo",
+    "unit": "1",
+    "currentStock": "1.00",
+    "minimumStock": "1.00",
+    "active": 1,
+    "createdAt": "2026-11-21T12:47:13.000Z",
+    "updatedAt": "2026-11-21T12:47:13.000Z"
+  }
+]

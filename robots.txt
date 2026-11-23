@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /gestao
+Disallow: /barbeiro
+Disallow: /atendente
+Disallow: /cadastro-cliente
+
+Sitemap: https://formulabarbe-knbey8wp.manus.space/sitemap.xml

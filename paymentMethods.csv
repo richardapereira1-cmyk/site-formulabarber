@@ -1,0 +1,4 @@
+id,name,kind,active,createdAt
+1,Dinheiro,cash,1,2026-08-19T15:19:59.000Z
+2,Cartão,card,1,2026-08-19T15:20:12.000Z
+3,Pix,pix,1,2026-08-19T15:20:21.000Z

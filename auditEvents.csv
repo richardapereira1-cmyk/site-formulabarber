@@ -1,0 +1,7 @@
+id,actorUserId,action,entityType,entityId,summary,metadata,createdAt
+30003,,create,appointment,90,Agendamento criado na operação.,"{""barberId"":4,""scheduledAt"":""2026-09-10T14:00:00.000Z""}",2026-10-02T16:37:39.000Z
+60002,,create,appointment,90,Agendamento criado na operação.,"{""barberId"":4,""scheduledAt"":""2026-09-10T14:00:00.000Z""}",2026-10-16T20:35:38.000Z
+90001,570011,create,appointment,2670001,Agendamento criado na operação.,"{""barberId"":30001,""scheduledAt"":""2026-11-19T22:50:00.000Z""}",2026-11-19T16:48:34.000Z
+120002,,create,appointment,90,Agendamento criado na operação.,"{""barberId"":4,""scheduledAt"":""2026-09-10T14:00:00.000Z""}",2026-11-19T20:19:37.000Z
+120004,,create,appointment,90,Agendamento criado na operação.,"{""barberId"":4,""scheduledAt"":""2026-09-10T14:00:00.000Z""}",2026-11-19T20:20:16.000Z
+150002,,create,appointment,90,Agendamento criado na operação.,"{""barberId"":4,""scheduledAt"":""2026-09-10T14:00:00.000Z""}",2026-11-23T02:29:12.000Z
